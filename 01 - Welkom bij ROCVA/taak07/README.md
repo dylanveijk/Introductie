@@ -1,1 +1,1 @@
-# MS Teams installeren
+# MS Teams op Mobiel

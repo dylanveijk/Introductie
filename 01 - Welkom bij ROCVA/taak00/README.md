@@ -6,5 +6,5 @@
 > 4. Schoolregels
 > 5. Checklist
 > 6. Portaal voor Talent
-> 7. MS Teams installeren
+> 7. MS Teams op Mobiel
 > 8. Outlook openen

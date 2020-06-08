@@ -1,4 +1,4 @@
-# Studieplanning
+# STUDIEPLANNING
 
 ### Regulier Traject
 
