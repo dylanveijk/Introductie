@@ -12,3 +12,9 @@ Met je account gegevens kun je inloggen. Heb je dat nog niet gedaan? Volg dan on
 > - [Registreren en wachtwoord wijzigen](https://www.youtube.com/watch?v=aL7z0-pngPs)
 >- [Portaal voor Talent & Office365](https://www.youtube.com/watch?v=jVABacrAXBI)
 
+
+### OPDRACHT
+
+1. Wijzig je wachtwoord als je dat nog niet gedaan hebt
+2. Heb je al email ontvangen? Check je outlook!
+3. Zoek uit wat je externe wachtwoord is. (dus niet @talnet.nl )
