@@ -1,6 +1,14 @@
 # Checklist
 
-> - Heeft iedereen zijn leermiddelen besteld? -> Nee? -> Doorgeven aan Theo 
-> - Vraag aan je studenten of ze een dyslexie of dyscalculieverklaring hebben -> Hebben ze dat? Vraag om bewijs -> Heb je het dat? Verwerk het in Eduarte
-> - Zijn één van je studenten te laat? -> Ja? -> Doorverwijzen naar Theo
-> - Zijn al je studenten in huis? Nee -> Doorgeven aan Muhammed
+### LEERMIDDELEN
+
+Heb jij alle leermiddelen besteld? 
+
+> - Alle boeken voor dit schooljaar?
+> - Heb je je laptop op orde?
+
+### VERKLARINGEN
+
+> - Heb je een dyslexie of dyscalculieverklaring? Lever deze dan in bij je SLB-er.
+
+> - Ben je al eens te laat gekomen tijdens deze introductieweken? Geef het door aan je SLB-er? 
