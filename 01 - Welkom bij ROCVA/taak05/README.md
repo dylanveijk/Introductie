@@ -11,4 +11,4 @@ Heb jij alle leermiddelen besteld?
 
 > - Heb je een dyslexie of dyscalculieverklaring? Lever deze dan in bij je SLB-er.
 
-> - Ben je al eens te laat gekomen tijdens deze introductieweken? Geef het door aan je SLB-er? 
+> - Ben je al eens te laat gekomen tijdens deze introductieweken? Geef het door aan je SLB-er. 

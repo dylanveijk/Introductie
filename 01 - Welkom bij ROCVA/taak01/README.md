@@ -1,10 +1,9 @@
 # WELKOM
 
+## Even voorstellen
 
-### Even voorstellen
 
-
-#### SLB-ER
+### SLB-ER
 Je bent nu op het ROC van Amsterdam, College Amstelland aangekomen. Op dit college zijn er docenten die je gaan begeleiden naar een diploma van Software Ontwikkelaar.
 
 Naast _gewone_ docenten heb je ook een StudieLoopbaanBegeleider of in het kort: __SLB-er__.
@@ -15,7 +14,7 @@ Je SLB-er is je eerste aanspreekpunt bij vragen over de opleiding. Als je gaat s
 
 De SLB-er is verantwoordelijk voor de klas waar jij in zit. Dus klaszaken worden ook samen met de SLB-er afgehandeld. 
 
-#### COACH
+### COACH
 Je SLB-er kan ook je coach zijn maar het kan ook zijn dat je een andere docent als coach hebt. Een coach begeleid je met je taken, modules en challenges, je dagelijkse opdrachten. Hij of zij houdt een vinger aan de pols.
 
 ### OPDRACHT 

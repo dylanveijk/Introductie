@@ -1,8 +1,8 @@
 # CULTUUR VAN DE OPLEIDING
 
-Op het college en met name op de opleiding __SOFTWARE DEVELOPMENT__ hebben we een aantal op afspraken gemaakt. Deze afspraken zorgen ervoor dat er een respectvolle werk- en studiesfeer aanwezig is. Hierdoor kan iedere student optimaal gebruik maken van de faciliteiten en de beschikbare contactmomenten. Deze regels gelden soms zowel in het college als online.
+Op het college en met name op de opleiding __SOFTWARE DEVELOPMENT__ hebben we een aantal afspraken gemaakt. Deze afspraken zorgen ervoor dat er een respectvolle werk- en studiesfeer aanwezig is. Hierdoor kan iedere student optimaal gebruik maken van de faciliteiten en de beschikbare contactmomenten. Deze regels gelden soms zowel in het college als online.
 
-### AFSPRAAK 1 - KLEDDINGSTUKKEN
+### AFSPRAAK 1 - KLEDINGSTUKKEN
 
 In een collegelokaal zijn alle jassen uit en heeft niemand een kledingstuk op zijn of haar hoofd (religeuze bedekkingen zijn uiteraard toegestaan)
 
@@ -21,7 +21,7 @@ Iedere student heeft een laptop bij zich die van te voren is geupdate. Daarnaast
 
 ### AFSPRAAK 5 - CONSUMPTIES
 
-Het is __NIET__ toegestaan om te eten en te drinken in een collegelokaal. Een flesje met wat dat afgesloten kan worden is wel toegestaan.
+Het is __NIET__ toegestaan om te eten en te drinken in een collegelokaal. Een flesje met water dat afgesloten kan worden is wel toegestaan.
 
 ### AFSPRAAK 6 - LEEG LOKAAL
 

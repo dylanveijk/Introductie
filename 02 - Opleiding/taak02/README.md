@@ -14,7 +14,7 @@ Tijdens Level 3 ga je weer op stage maar je gaat ook Kerntaakexamens maken. Deze
 
 ### LEVEL 4
 
-Mocht je door interne of externe factoren studievertraging hebben opgelopen dan kun je nog steeds afstuderen. Je kunt modules, challenges, stages en examens in overleg met SLB-er afronden met een gedegen planning en tomeloze inzet.
+Mocht je door interne of externe factoren studievertraging hebben opgelopen dan kun je nog steeds afstuderen. Je kunt modules, challenges, stages en examens in overleg met jou SLB-er afronden met een gedegen planning en tomeloze inzet.
 
 ### OPDRACHT
 
