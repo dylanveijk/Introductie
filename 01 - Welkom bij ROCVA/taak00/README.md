@@ -1,10 +1,8 @@
 # Inhoud deze serie
 
-> 1. Welkom
+> 1. Schoolregels
 > 2. Kennismaken met je klas
-> 3. Rol van SLBer
-> 4. Schoolregels
-> 5. Checklist
-> 6. Portaal voor Talent
-> 7. MS Teams op Mobiel
-> 8. Outlook openen
+> 3. Cultuur van de opleiding
+> 4. Leermiddelen
+> 5. Portaal voor Talent
+> 6. MS Teams op Mobiel

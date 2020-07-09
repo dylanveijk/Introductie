@@ -1,20 +1,17 @@
-# Portaal Voor Talent
+# MS Teams op Mobiel
 
+De communicatie tussen jou en je docenten verloopt via MS TEAMS. MS TEAMS zit in je pakket bij OFFICE365. 
 
-### REGISTRATIE OP HET COLLEGE
-
-Tijdens je carriere hier op het college ga je gebruik maken van de tools van het ROC van Amsterdam. 
-
-Je gaat gebruiken maken van OFFICE365 en [Portaal ROC](https://talnet.sharepoint.com). 
-
-Met je account gegevens kun je inloggen. Heb je dat nog niet gedaan? Volg dan onderstaande video om je wegwijs te maken.
-
-> - [Registreren en wachtwoord wijzigen](https://www.youtube.com/watch?v=aL7z0-pngPs)
->- [Portaal voor Talent & Office365](https://www.youtube.com/watch?v=jVABacrAXBI)
-
+Je dient MS TEAMS ook op je telefoon te installeren zodat je SLB-er, je coach en je vakdocenten je berichten kunnen sturen. Je ziet dan de laatste roosterwijzigingen en andere belangrijke mededelingen.
 
 ### OPDRACHT
 
-1. Wijzig je wachtwoord als je dat nog niet gedaan hebt
-2. Heb je al email ontvangen? Check je outlook!
-3. Zoek uit wat je externe wachtwoord is. (dus niet @talnet.nl )
+Installeer de app op je telefoon.
+
+__ANDROID__
+
+1. Ga naar de Google PlayStore en download [MS TEAMS](https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en_US)
+
+__APPLE__
+
+1. Ga naar de App Store en download [MS TEAMS](https://apps.apple.com/nl/app/microsoft-teams/id1113153706)
