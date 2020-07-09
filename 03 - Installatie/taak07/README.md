@@ -2,9 +2,7 @@
 
 ## DOEL VAN DE OPDRACHT
 
-Voor bewerken van code heb je een editor nodig. Wij gebruiken Visual Studio Code van Microsoft. Waarom?
-Omdat het een nieuwe moderne editor is die actief door Microsoft wordt ondersteund en door ontwikkeld. Er
-zijn veel meer editors waarmee je kan werken, elk met z’n voor- en nadelen natuurlijk. Het is je vrij om andere editors te proberen maar wij houden VS Code aan in de les.
+//stond nog tekst over vs code
 
 ## OPDRACHT
 
@@ -19,4 +17,4 @@ VOER DE VOLGENDE STAPPEN UIT:
 ## OPMERKINGEN EN TIPS
 
 De Apache webserver geeft HTML bestanden door aan je browser. Dit zijn bestanden die in een map op je
-hardschijf staan. Kun je erachter komen welke map
+hardschijf staan. Kun je erachter komen welke map?

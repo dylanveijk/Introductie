@@ -18,3 +18,6 @@ Met je account gegevens kun je inloggen. Heb je dat nog niet gedaan? Volg dan on
 1. Wijzig je wachtwoord als je dat nog niet gedaan hebt
 2. Heb je al email ontvangen? Check je outlook!
 3. Zoek uit wat je externe wachtwoord is. (dus niet @talnet.nl )
+
+
+>  Ben je al eens te laat gekomen tijdens deze introductieweken? Geef het door aan je SLB-er. 

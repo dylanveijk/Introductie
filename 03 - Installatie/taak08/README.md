@@ -2,8 +2,7 @@
 
 ## DOEL VAN DE OPDRACHT
 
-Voor bewerken van code heb je een editor nodig. Wij gebruiken Visual Studio Code van Microsoft. Waarom?
-GIT is versiebeheer software. Deze software wordt door ontzettend veel software development bedrijven gebruikt om samen te werken aan een projecten
+//stond nog info over vs code
 
 ## OPDRACHT
 
