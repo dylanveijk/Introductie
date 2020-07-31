@@ -9,7 +9,7 @@ Op het college en met name op de opleiding __SOFTWARE DEVELOPMENT__ hebben we ee
 
 ### VERKLARINGEN
 
-> - Heb je een dyslexie of dyscalculieverklaring? Lever deze dan in bij je SLB-er.
+> - Heb je een dyslexie- of dyscalculieverklaring? Lever deze dan in bij je SLB-er.
 
 ### AFSPRAAK 3 - OP TIJD KOMEN
 
