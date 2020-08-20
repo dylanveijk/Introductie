@@ -15,4 +15,4 @@ VOER DE VOLGENDE STAPPEN UIT:
 
 ## OPMERKINGEN EN TIPS
 
-GIT is heel erg complex. Wij beginnen met de volgende paar begrippen de komende tijd: `commit`, `push`, `repository` of `repo`, `clone`, `fork`
+GIT is behoorlijk complex. Wij beginnen met de volgende paar begrippen de komende tijd: `commit`, `push`, `repository` of `repo`, `clone`, `fork`
