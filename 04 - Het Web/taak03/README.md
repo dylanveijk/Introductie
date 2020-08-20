@@ -2,7 +2,7 @@
 
 ## DOEL VAN DE OPDRACHT
 
-Je kunt je internet snelheid (download en upload) meten met een online tool.
+Je kunt je internetsnelheid (download en upload) meten met een online tool.
 
 ## OPDRACHT
 
