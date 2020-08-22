@@ -8,6 +8,4 @@
 > 6. MS Teams op Mobiel
 
 <!-- DIT COMMENTAAR LATEN STAAN AUB -->
-<!-- eagle ref: 32142344 --->
-
-21c398e5213146f3ff112b4d34ee2def15c2b1ae
+<!-- eagle ref:32142344 --->
