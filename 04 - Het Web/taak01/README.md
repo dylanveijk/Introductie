@@ -11,3 +11,10 @@ Zoek in google op “auto kopen”. In het overzicht zie je vaak resultaten waar
 1. Geef antwoord op de volgende vraag: __Hoe herken je de betaalde resultaten?__
 
 ## OPMERKINGEN EN TIPS
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:67375587
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
