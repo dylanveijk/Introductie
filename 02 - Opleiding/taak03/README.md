@@ -33,3 +33,5 @@ Taken kun je afvinken in [Eagle](https://eagledev.nl) om zo je voortgang kenbaar
 
 #### Moduleopdracht
 Een moduleopdracht is een grote opdracht waarna je demonstreert via een (online) gesprek dat je de specifieke lesstof werkelijk voldoende beheerst. De docent vraagt je het hemd van het lijf om zo te beoordelen of je de module behaald hebt. Zonder de kennis uit de modules, ben je niet in staat de challenges op te loseen.
+<!-- DIT COMMENTAAR LATEN STAAN AUB -->
+                            <!-- eagle ref:1651257386 --->
