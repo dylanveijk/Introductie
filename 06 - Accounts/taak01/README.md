@@ -14,3 +14,10 @@ Stichting Praktijk Leren verzorgt online lesmateriaal, examens en biedt toegang 
 
 ## OPMERKINGEN EN TIPS
 
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:61116417
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
