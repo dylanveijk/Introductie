@@ -13,5 +13,3 @@ VOER DE VOLGENDE STAPPEN UIT:
 3. Download en installeer Onedrive
 4. Login in met je schoolaccount op OneDrive.
 5. Maak voor je generieke vakken (Ned, Eng, Rek, Burgerschap) mappen aan.
-<!-- DIT COMMENTAAR LATEN STAAN AUB -->
-                            <!-- eagle ref:430407486 --->

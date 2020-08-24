@@ -13,5 +13,3 @@ VOER DE VOLGENDE STAPPEN UIT:
 3. Klik met je rechtermuisknop een zip bestand, welke opties heb je erbij gekregen?
 4. Heb je geen zip-bestand, klik op een willekeurig bestand, klik met je rechtermuisknop op dit bestand en pak het bestand in via 7-ZIP.
 5. Bekijk welke opties je erbij hebt gekregen in je contextmenu van Explorer (het menu dat je ziet als je met je rechtermuisknop op een bestand klikt)
-<!-- DIT COMMENTAAR LATEN STAAN AUB -->
-                            <!-- eagle ref:1051426644 --->

@@ -18,5 +18,3 @@ VOER DE VOLGENDE STAPPEN UIT:
 
 De Apache webserver geeft HTML-bestanden door aan je browser. Dit zijn bestanden die in een map op je
 hardschijf staan. Kun je erachter komen welke map?
-<!-- DIT COMMENTAAR LATEN STAAN AUB -->
-                            <!-- eagle ref:1729311717 --->

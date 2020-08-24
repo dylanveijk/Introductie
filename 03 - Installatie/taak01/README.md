@@ -15,5 +15,3 @@ VOER DE VOLGENDE STAPPEN UIT:
 ## OPMERKINGEN EN TIPS
 
 Weet je niet wat een wafelmenu is? Zoek het eens op via Google.
-<!-- DIT COMMENTAAR LATEN STAAN AUB -->
-                            <!-- eagle ref:358971311 --->

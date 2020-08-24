@@ -6,6 +6,3 @@
 > 4. Leermiddelen
 > 5. Portaal voor Talent
 > 6. MS Teams op Mobiel
-
-<!-- DIT COMMENTAAR LATEN STAAN AUB -->
-<!-- eagle ref:32142344 --->

@@ -12,5 +12,3 @@ Elke apparaat en elke website heeft een ip-adres. Maar wat is het eigenlijk?
 ## OPMERKINGEN EN TIPS
 
 DuckDuckGo het als je het niet weet.
-<!-- DIT COMMENTAAR LATEN STAAN AUB -->
-                            <!-- eagle ref:1430557550 --->

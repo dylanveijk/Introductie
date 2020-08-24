@@ -19,5 +19,3 @@ Jij bent een held in zoeken.
 - Maximaal: € 450,-
 
 ## OPMERKINGEN EN TIPS
-<!-- DIT COMMENTAAR LATEN STAAN AUB -->
-                            <!-- eagle ref:557364213 --->

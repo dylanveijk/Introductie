@@ -30,5 +30,3 @@ In een lokaal zonder docenten, __GEEN__ studenten.
 ### AFSPRAAK 7 - IEDEREEN IS WELKOM
 
 We gaan respectvol met elkaar om. Nieuwe mensen, nieuwe vragen en allerlei nieuwsgierigheden. Andere geaardheden, andere religies, andere culturen. We gaan met ieders keuze of achtergrond respectvol en eervol om. 
-<!-- DIT COMMENTAAR LATEN STAAN AUB -->
-                            <!-- eagle ref:118285924 --->

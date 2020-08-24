@@ -12,7 +12,3 @@ www.w3schools.com.
 1. Geef antwoord op de volgende vraag: **Hoe gebruik je google om te zoeken in een specifieke website?**
 
 ## OPMERKINGEN EN TIPS
-
-
-<!-- DIT COMMENTAAR LATEN STAAN AUB -->
-                            <!-- eagle ref:853550897 --->
