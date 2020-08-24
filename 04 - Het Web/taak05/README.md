@@ -12,3 +12,10 @@ Ga naar de site van deze het ROC van Amsterdam. In je browser ziet alles er mooi
 2. Geef antwoord op de volgende vraag: **Wat is de omschrijving (description) die bij de tag `<meta name="description">` is opgeschreven?**
 
 ## OPMERKINGEN EN TIPS
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:7435860
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
