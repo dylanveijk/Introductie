@@ -8,3 +8,10 @@
 > 6. HULP BIJ HET PROGRAMMEREN
 > 7. WOORDEN WAAR JE JUIST NIET OP WILT ZOEKEN
 > 8. ZOEK DE PERFECTE LAPTOP
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:23297231
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
