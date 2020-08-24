@@ -14,4 +14,5 @@ __ANDROID__
 
 __APPLE__
 
-1. Ga naar de App Store en download [MS TEAMS](https://apps.apple.com/nl/app/microsoft-teams/id1113153706)
+1. Ga naar de App Store en download [MS TEAMS](https://apps.apple.com/nl/app/microsoft-teams/id1113153706)<!-- DIT COMMENTAAR LATEN STAAN AUB -->
+                            <!-- eagle ref:1923128114 --->
