@@ -12,3 +12,10 @@ Je kunt je internetsnelheid (download en upload) meten met een online tool.
 ## OPMERKINGEN EN TIPS
 
 Gebruik google als je het even niet weet.
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:48914887
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
