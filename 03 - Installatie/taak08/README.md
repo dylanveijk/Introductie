@@ -16,3 +16,10 @@ VOER DE VOLGENDE STAPPEN UIT:
 ## OPMERKINGEN EN TIPS
 
 GIT is behoorlijk complex. Wij beginnen met de volgende paar begrippen de komende tijd: `commit`, `push`, `repository` of `repo`, `clone`, `fork`
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:81093774
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
