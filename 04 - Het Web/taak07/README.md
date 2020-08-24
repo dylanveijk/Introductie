@@ -14,3 +14,10 @@ Bijvoorbeeld als je op zoek bent naar een nieuwe bank in je huiskamer, wil je ni
 3. Zoek op snelle jaguar maar zorg dat je geen resultaten krijgt over auto’s
 
 ## OPMERKINGEN EN TIPS
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:95561254
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
