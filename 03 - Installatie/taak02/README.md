@@ -17,3 +17,5 @@ VOER DE VOLGENDE STAPPEN UIT:
 ## OPMERKINGEN EN TIPS
 
 Op internet zijn lijstjes te vinden van ‘de beste..’ extensions voor Chrome en Firefox
+<!-- DIT COMMENTAAR LATEN STAAN AUB -->
+                            <!-- eagle ref:1910320773 --->
