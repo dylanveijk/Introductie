@@ -15,3 +15,5 @@ VOER DE VOLGENDE STAPPEN UIT:
 3. Kies als er een optie is voor de ‘stable’ versie van een software pakket.
 4. Open VS Code en bekijk de menu-opties die je hebt. Het is aan jou om zo goed mogelijk te leren omgaan met je editor.
 5. Maak een nieuw bestand aan en bewaar dit  bestand op een locatie naar keuze.
+<!-- DIT COMMENTAAR LATEN STAAN AUB -->
+                            <!-- eagle ref:177123461 --->
