@@ -1,39 +1,26 @@
-# CULTUUR VAN DE OPLEIDING
+# Portaal Voor Talent
 
-Op het college en met name op de opleiding __SOFTWARE DEVELOPMENT__ hebben we een aantal op afspraken gemaakt. Deze afspraken zorgen ervoor dat er een respectvolle werk- en studiesfeer aanwezig is. Hierdoor kan iedere student optimaal gebruikmaken van de faciliteiten en de beschikbare contactmomenten. Deze regels gelden soms zowel in het college als online.
+## REGISTRATIE OP HET COLLEGE
 
-### AFSPRAAK 1 - KLEDDINGSTUKKEN
+Tijdens je carriere hier op het college ga je gebruik maken van de tools van het ROC van Amsterdam.
 
-In een collegelokaal zijn alle jassen uit en heeft niemand een kledingstuk op zijn of haar hoofd (religeuze bedekkingen zijn uiteraard toegestaan)
+Je gaat gebruiken maken van OFFICE365 en [Portaal ROC](https://talnet.sharepoint.com).
 
-### AFSPRAAK 2 - DEVICES
+Met je account gegevens kun je inloggen. Heb je dat nog niet gedaan? Volg dan onderstaande video om je wegwijs te maken.
 
-Telefoons, koptelefoons en andere devices zijn niet toegestaan, tenzij de docent dat toelaat.
+> - [Registreren en wachtwoord wijzigen](https://www.youtube.com/watch?v=aL7z0-pngPs)
+> - [Portaal voor Talent & Office365](https://www.youtube.com/watch?v=jVABacrAXBI)
 
-### AFSPRAAK 3 - OP TIJD KOMEN
+### OPDRACHT
 
-Iedere student is op tijd aanwezig. Ben je te laat? Dan haal je een briefje bij de FrontOffice (receptie). Je mist dan wel het eerste deel van de les. 
-> __1 seconde te laat? Briefje halen -> Dan kom je het tweede deel van de les pas naar binnen__
+1. Wijzig je wachtwoord als je dat nog niet gedaan hebt
+2. Heb je al email ontvangen? Check je outlook!
+3. Zoek uit wat je externe wachtwoord is. (dus niet @talnet.nl )
 
-### AFSPRAAK 4 - LEERMIDDELEN
-
-Iedere student heeft een laptop bij zich die van te voren is geüpdatet. Daarnaast heb je de overige benodigde leermiddelen bij je
-
-### AFSPRAAK 5 - CONSUMPTIES
-
-Het is __NIET__ toegestaan om te eten en te drinken in een collegelokaal. Een afsluitbaar flesje met water is wel toegestaan.
-
-### AFSPRAAK 6 - LEEG LOKAAL
-
-In een lokaal zonder docenten, __GEEN__ studenten.
-
-### AFSPRAAK 7 - IEDEREEN IS WELKOM
-
-We gaan respectvol met elkaar om. Nieuwe mensen, nieuwe vragen en allerlei nieuwsgierigheden. Andere geaardheden, andere religies, andere culturen. We gaan met ieders keuze of achtergrond respectvol en eervol om. 
-
+> Ben je al eens te laat gekomen tijdens deze introductieweken? Geef het door aan je SLB-er.
 
 <!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
 ------------------ ------------------------------ ------------
------------------- eagle ref:19255714
+------------------ eagle ref:55566693
 ------------------ ------------------------------ ------------
 ------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->

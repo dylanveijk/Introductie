@@ -1,12 +1,11 @@
 # CHALLENGES & MODULES
 
-
 Tijdens deze opleiding ga je werken met verschillende typen opdrachten:
 
 - Challenges
 - Modules
-  - Moduleopdracht 
-  - Taken 
+  - Moduleopdracht
+  - Taken
 
 ## CHALLENGES
 
@@ -14,7 +13,7 @@ De eerste keer dat je een challenge leest zal je waarschijnlijk denken: "Dit kan
 
 Een challenge bestaat vrijwel altijd uit een probleem. Er is een probleem en jij moet, soms met teamgenoten, een oplossing zien te bedenken.
 
-Een challenge begint altijd eerst met een gezamenlijk gesprek over wat de challenge inhoudt, welke kennis je niet en welke kennis je wel al hebt. 
+Een challenge begint altijd eerst met een gezamenlijk gesprek over wat de challenge inhoudt, welke kennis je niet en welke kennis je wel al hebt.
 
 Als het probleem goed in kaart is gebracht en al je vragen zijn beantwoord dan ga je nadenken over de mogelijke oplossingen. Net als bij coderen zijn er verschillende oplossingen mogelijk. Het is aan jou om een goed onderbouwde oplossing te vinden en toe te lichten.
 
@@ -29,7 +28,7 @@ Modules bestaan uit taken en moduleopdrachten. Je bent __verplicht__ om alle mod
 ## TAKEN
 
 Een taak is een kleine (vaak niet verplichte) opdracht die je uitlegt hoe bepaalde materie (code, functionaliteit, procedure) in elkaar steekt. Het kan gaan over het maken van UML, loops in Javascript, Python type casting of OOP in PHP. Er zijn vaak bronnen bijgevoegd om je op weg te helpen naar informatie. Het is aan jou om kennis op te doen. Soms worden er workshops aangeboden met bepaalde onderwerpen die misschien van pas kunnen komen.
-Taken kun je afvinken in [Eagle](https://eagledev.nl) om zo je voortgang kenbaar te maken. De code-taken worden via [Github](https://github.com) ingeleverd. 
+Taken kun je afvinken in [Eagle](https://eagledev.nl) om zo je voortgang kenbaar te maken. De code-taken worden via [Github](https://github.com) ingeleverd.
 
 ### Moduleopdracht
 

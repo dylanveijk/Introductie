@@ -8,7 +8,7 @@
 
 VOER DE VOLGENDE STAPPEN UIT:
 
-1. Ga naar https://www.7-zip.org/
+1. Ga naar [7-zip.org](https://www.7-zip.org/)
 2. Download en installeer 7-zip
 3. Klik met je rechtermuisknop een zip bestand, welke opties heb je erbij gekregen?
 4. Heb je geen zip-bestand, klik op een willekeurig bestand, klik met je rechtermuisknop op dit bestand en pak het bestand in via 7-ZIP.

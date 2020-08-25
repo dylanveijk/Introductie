@@ -10,7 +10,7 @@ zijn veel meer editors waarmee je kan werken, elk met z’n voor- en nadelen nat
 
 VOER DE VOLGENDE STAPPEN UIT:
 
-1. Ga naar https://code.visualstudio.com/
+1. Ga naar [VS CODE](https://code.visualstudio.com/)
 2. Download de versie die bij jouw platform hoort
 3. Kies als er een optie is voor de ‘stable’ versie van een software pakket.
 4. Open VS Code en bekijk de menu-opties die je hebt. Het is aan jou om zo goed mogelijk te leren omgaan met je editor.

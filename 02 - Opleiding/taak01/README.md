@@ -2,7 +2,7 @@
 
 ## LEVEL 1
 
-Tijdens je eerste jaar werk je individueel  aan allerlei codeeropdrachten. Daarnaast leer je vaardigheden om een goede beroepsbeoefenaar te worden op het gebeid van software-ontwikkeling.
+Tijdens je eerste jaar werk je individueel aan allerlei codeeropdrachten. Daarnaast leer je vaardigheden om een goede beroepsbeoefenaar te worden op het gebeid van software-ontwikkeling.
 
 ### LEVEL 2
 
